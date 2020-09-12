@@ -1,0 +1,441 @@
+Bush vs. the Beltway	interacts with	1000 Years for Revenge
+Charlie Wilson's War	interacts with	1000 Years for Revenge
+Losing Bin Laden	interacts with	1000 Years for Revenge
+Losing Bin Laden	interacts with	Bush vs. the Beltway
+Sleeping With the Devil	interacts with	1000 Years for Revenge
+Sleeping With the Devil	interacts with	Charlie Wilson's War
+The Man Who Warned America	interacts with	1000 Years for Revenge
+The Man Who Warned America	interacts with	Bush vs. the Beltway
+The Man Who Warned America	interacts with	Charlie Wilson's War
+The Man Who Warned America	interacts with	Losing Bin Laden
+The Man Who Warned America	interacts with	Sleeping With the Devil
+Why America Slept	interacts with	1000 Years for Revenge
+Why America Slept	interacts with	Bush vs. the Beltway
+Why America Slept	interacts with	Sleeping With the Devil
+Why America Slept	interacts with	The Man Who Warned America
+Ghost Wars	interacts with	Charlie Wilson's War
+Ghost Wars	interacts with	The Man Who Warned America
+Ghost Wars	interacts with	Why America Slept
+A National Party No More	interacts with	Losing Bin Laden
+Bush Country	interacts with	Losing Bin Laden
+Bush Country	interacts with	A National Party No More
+Dereliction of Duty	interacts with	Losing Bin Laden
+Dereliction of Duty	interacts with	Why America Slept
+Dereliction of Duty	interacts with	A National Party No More
+Legacy	interacts with	Losing Bin Laden
+Legacy	interacts with	A National Party No More
+Legacy	interacts with	Bush Country
+Legacy	interacts with	Dereliction of Duty
+Off with Their Heads	interacts with	Losing Bin Laden
+Off with Their Heads	interacts with	Why America Slept
+Off with Their Heads	interacts with	A National Party No More
+Off with Their Heads	interacts with	Bush Country
+Off with Their Heads	interacts with	Dereliction of Duty
+Off with Their Heads	interacts with	Legacy
+Persecution	interacts with	Losing Bin Laden
+Persecution	interacts with	A National Party No More
+Persecution	interacts with	Legacy
+Persecution	interacts with	Off with Their Heads
+Rumsfeld's War	interacts with	Losing Bin Laden
+Rumsfeld's War	interacts with	A National Party No More
+Rumsfeld's War	interacts with	Bush Country
+Rumsfeld's War	interacts with	Legacy
+Rumsfeld's War	interacts with	Off with Their Heads
+Rumsfeld's War	interacts with	Ghost Wars
+Breakdown	interacts with	Losing Bin Laden
+Breakdown	interacts with	Dereliction of Duty
+Breakdown	interacts with	Off with Their Heads
+Betrayal	interacts with	Losing Bin Laden
+Betrayal	interacts with	Dereliction of Duty
+Betrayal	interacts with	Breakdown
+Shut Up and Sing	interacts with	Losing Bin Laden
+Shut Up and Sing	interacts with	Legacy
+Shut Up and Sing	interacts with	Off with Their Heads
+Shut Up and Sing	interacts with	Persecution
+Meant To Be	interacts with	Losing Bin Laden
+Meant To Be	interacts with	Why America Slept
+Meant To Be	interacts with	Off with Their Heads
+The Right Man	interacts with	Losing Bin Laden
+The Right Man	interacts with	Dereliction of Duty
+Ten Minutes from Normal	interacts with	Losing Bin Laden
+Ten Minutes from Normal	interacts with	A National Party No More
+Ten Minutes from Normal	interacts with	Bush Country
+Ten Minutes from Normal	interacts with	Legacy
+Hillary's Scheme	interacts with	Losing Bin Laden
+Hillary's Scheme	interacts with	A National Party No More
+Hillary's Scheme	interacts with	Dereliction of Duty
+Hillary's Scheme	interacts with	Legacy
+The French Betrayal of America	interacts with	Losing Bin Laden
+The French Betrayal of America	interacts with	Why America Slept
+The French Betrayal of America	interacts with	A National Party No More
+The French Betrayal of America	interacts with	Legacy
+Tales from the Left Coast	interacts with	Losing Bin Laden
+Tales from the Left Coast	interacts with	A National Party No More
+Tales from the Left Coast	interacts with	Off with Their Heads
+Tales from the Left Coast	interacts with	Hillary's Scheme
+Hating America	interacts with	Losing Bin Laden
+Hating America	interacts with	A National Party No More
+Hating America	interacts with	Bush Country
+Hating America	interacts with	Off with Their Heads
+Hating America	interacts with	Ten Minutes from Normal
+The Third Terrorist	interacts with	Losing Bin Laden
+The Third Terrorist	interacts with	Why America Slept
+The Third Terrorist	interacts with	Rumsfeld's War
+The Third Terrorist	interacts with	The French Betrayal of America
+Endgame	interacts with	Losing Bin Laden
+Endgame	interacts with	A National Party No More
+Endgame	interacts with	Legacy
+Endgame	interacts with	Rumsfeld's War
+Endgame	interacts with	Hating America
+Spin Sisters	interacts with	Losing Bin Laden
+Spin Sisters	interacts with	A National Party No More
+Spin Sisters	interacts with	Bush Country
+Spin Sisters	interacts with	Legacy
+Spin Sisters	interacts with	Tales from the Left Coast
+All the Shah's Men	interacts with	Sleeping With the Devil
+Dangerous Dimplomacy	interacts with	Sleeping With the Devil
+Dangerous Dimplomacy	interacts with	Why America Slept
+Dangerous Dimplomacy	interacts with	Legacy
+Dangerous Dimplomacy	interacts with	Persecution
+The Price of Loyalty	interacts with	Sleeping With the Devil
+The Price of Loyalty	interacts with	Ghost Wars
+House of Bush, House of Saud	interacts with	Sleeping With the Devil
+House of Bush, House of Saud	interacts with	The Price of Loyalty
+The Death of Right and Wrong	interacts with	A National Party No More
+The Death of Right and Wrong	interacts with	Off with Their Heads
+The Death of Right and Wrong	interacts with	Persecution
+The Death of Right and Wrong	interacts with	Tales from the Left Coast
+Useful Idiots	interacts with	The Death of Right and Wrong
+Useful Idiots	interacts with	A National Party No More
+Useful Idiots	interacts with	Dereliction of Duty
+Useful Idiots	interacts with	Off with Their Heads
+Useful Idiots	interacts with	Tales from the Left Coast
+Let Freedom Ring	interacts with	The O'Reilly Factor
+Let Freedom Ring	interacts with	A National Party No More
+Let Freedom Ring	interacts with	Dereliction of Duty
+Those Who Trespass	interacts with	The O'Reilly Factor
+Those Who Trespass	interacts with	Let Freedom Ring
+Those Who Trespass	interacts with	Off with Their Heads
+Bias	interacts with	The O'Reilly Factor
+Bias	interacts with	A National Party No More
+Bias	interacts with	Dereliction of Duty
+Bias	interacts with	Let Freedom Ring
+Bias	interacts with	Useful Idiots
+Slander	interacts with	The O'Reilly Factor
+Slander	interacts with	Dereliction of Duty
+Slander	interacts with	Let Freedom Ring
+Slander	interacts with	Off with Their Heads
+Slander	interacts with	Bias
+Slander	interacts with	Useful Idiots
+The Savage Nation	interacts with	The O'Reilly Factor
+The Savage Nation	interacts with	Dereliction of Duty
+The Savage Nation	interacts with	Let Freedom Ring
+The Savage Nation	interacts with	Off with Their Heads
+The Savage Nation	interacts with	Slander
+The Savage Nation	interacts with	Useful Idiots
+Deliver Us from Evil	interacts with	A National Party No More
+Deliver Us from Evil	interacts with	Let Freedom Ring
+Deliver Us from Evil	interacts with	Off with Their Heads
+Deliver Us from Evil	interacts with	Persecution
+Deliver Us from Evil	interacts with	Ten Minutes from Normal
+Deliver Us from Evil	interacts with	The French Betrayal of America
+Deliver Us from Evil	interacts with	The Savage Nation
+Deliver Us from Evil	interacts with	Hating America
+Deliver Us from Evil	interacts with	The Third Terrorist
+Deliver Us from Evil	interacts with	Endgame
+Deliver Us from Evil	interacts with	Spin Sisters
+Give Me a Break	interacts with	A National Party No More
+Give Me a Break	interacts with	Bush Country
+Give Me a Break	interacts with	Deliver Us from Evil
+Give Me a Break	interacts with	Off with Their Heads
+Give Me a Break	interacts with	Those Who Trespass
+Give Me a Break	interacts with	Spin Sisters
+The Enemy Within	interacts with	A National Party No More
+The Enemy Within	interacts with	Deliver Us from Evil
+The Enemy Within	interacts with	Persecution
+The Enemy Within	interacts with	The Savage Nation
+The Real America	interacts with	A National Party No More
+The Real America	interacts with	Let Freedom Ring
+The Real America	interacts with	Persecution
+The Real America	interacts with	The Enemy Within
+Who's Looking Out for You?	interacts with	A National Party No More
+Who's Looking Out for You?	interacts with	Deliver Us from Evil
+Who's Looking Out for You?	interacts with	Let Freedom Ring
+Who's Looking Out for You?	interacts with	Off with Their Heads
+Who's Looking Out for You?	interacts with	Persecution
+The Official Handbook Vast Right Wing Conspiracy	interacts with	A National Party No More
+The Official Handbook Vast Right Wing Conspiracy	interacts with	Bush Country
+The Official Handbook Vast Right Wing Conspiracy	interacts with	Deliver Us from Evil
+The Official Handbook Vast Right Wing Conspiracy	interacts with	Legacy
+The Official Handbook Vast Right Wing Conspiracy	interacts with	Endgame
+Power Plays	interacts with	A National Party No More
+Power Plays	interacts with	Off with Their Heads
+Arrogance	interacts with	Bush Country
+Arrogance	interacts with	Deliver Us from Evil
+Arrogance	interacts with	Give Me a Break
+Arrogance	interacts with	Legacy
+Arrogance	interacts with	Off with Their Heads
+Arrogance	interacts with	Persecution
+Arrogance	interacts with	The Enemy Within
+Arrogance	interacts with	Those Who Trespass
+Arrogance	interacts with	Bias
+Arrogance	interacts with	Shut Up and Sing
+Arrogance	interacts with	Useful Idiots
+Arrogance	interacts with	The Official Handbook Vast Right Wing Conspiracy
+Arrogance	interacts with	Power Plays
+Arrogance	interacts with	Tales from the Left Coast
+Arrogance	interacts with	Hating America
+Arrogance	interacts with	Endgame
+Arrogance	interacts with	Spin Sisters
+The Perfect Wife	interacts with	Bush Country
+The Perfect Wife	interacts with	Ten Minutes from Normal
+The Bushes	interacts with	Bush Country
+The Bushes	interacts with	Ten Minutes from Normal
+The Bushes	interacts with	House of Bush, House of Saud
+The Bushes	interacts with	The Perfect Wife
+Things Worth Fighting For	interacts with	Bush Country
+Things Worth Fighting For	interacts with	Legacy
+Surprise, Security, the American Experience	interacts with	Bush Country
+Allies	interacts with	Bush Country
+Allies	interacts with	The French Betrayal of America
+Allies	interacts with	Surprise, Security, the American Experience
+Why Courage Matters	interacts with	Deliver Us from Evil
+Why Courage Matters	interacts with	Ten Minutes from Normal
+Why Courage Matters	interacts with	Hating America
+Why Courage Matters	interacts with	Endgame
+Hollywood Interrupted	interacts with	Deliver Us from Evil
+Hollywood Interrupted	interacts with	Give Me a Break
+Hollywood Interrupted	interacts with	Off with Their Heads
+Hollywood Interrupted	interacts with	Arrogance
+Hollywood Interrupted	interacts with	Tales from the Left Coast
+Hollywood Interrupted	interacts with	Spin Sisters
+Fighting Back	interacts with	Dereliction of Duty
+Fighting Back	interacts with	Off with Their Heads
+Fighting Back	interacts with	Breakdown
+Fighting Back	interacts with	The Right Man
+We Will Prevail	interacts with	Legacy
+We Will Prevail	interacts with	The Right Man
+We Will Prevail	interacts with	The Real America
+The Faith of George W Bush	interacts with	Persecution
+The Faith of George W Bush	interacts with	We Will Prevail
+The Faith of George W Bush	interacts with	Ten Minutes from Normal
+The Faith of George W Bush	interacts with	The Perfect Wife
+The Faith of George W Bush	interacts with	The Bushes
+Rise of the Vulcans	interacts with	Rumsfeld's War
+Rise of the Vulcans	interacts with	Ghost Wars
+Rise of the Vulcans	interacts with	The Price of Loyalty
+Rise of the Vulcans	interacts with	The Bushes
+Rise of the Vulcans	interacts with	Things Worth Fighting For
+Rise of the Vulcans	interacts with	Surprise, Security, the American Experience
+Rise of the Vulcans	interacts with	Allies
+Stupid White Men	interacts with	Downsize This!
+Rush Limbaugh Is a Big Fat Idiot	interacts with	Downsize This!
+The Best Democracy Money Can Buy	interacts with	Downsize This!
+The Best Democracy Money Can Buy	interacts with	Stupid White Men
+The Culture of Fear	interacts with	Downsize This!
+The Culture of Fear	interacts with	Stupid White Men
+The Culture of Fear	interacts with	The Best Democracy Money Can Buy
+America Unbound	interacts with	Rise of the Vulcans
+America Unbound	interacts with	Surprise, Security, the American Experience
+America Unbound	interacts with	Allies
+The Choice	interacts with	America Unbound
+The Choice	interacts with	Rise of the Vulcans
+The Choice	interacts with	Surprise, Security, the American Experience
+The Great Unraveling	interacts with	America Unbound
+The Great Unraveling	interacts with	All the Shah's Men
+The Great Unraveling	interacts with	The Price of Loyalty
+Rogue Nation	interacts with	America Unbound
+Rogue Nation	interacts with	The Choice
+Rogue Nation	interacts with	The Great Unraveling
+Rogue Nation	interacts with	The Price of Loyalty
+Soft Power	interacts with	America Unbound
+Soft Power	interacts with	Rise of the Vulcans
+Soft Power	interacts with	The Choice
+Colossus	interacts with	America Unbound
+Colossus	interacts with	Rise of the Vulcans
+Colossus	interacts with	The Choice
+Colossus	interacts with	Surprise, Security, the American Experience
+The Sorrows of Empire	interacts with	America Unbound
+The Sorrows of Empire	interacts with	The Great Unraveling
+The Sorrows of Empire	interacts with	The Price of Loyalty
+Against All Enemies	interacts with	Ghost Wars
+Against All Enemies	interacts with	Soft Power
+Against All Enemies	interacts with	The Sorrows of Empire
+American Dynasty	interacts with	Against All Enemies
+American Dynasty	interacts with	All the Shah's Men
+American Dynasty	interacts with	The Great Unraveling
+American Dynasty	interacts with	The Bushes
+American Dynasty	interacts with	The Sorrows of Empire
+Big Lies	interacts with	Against All Enemies
+Big Lies	interacts with	American Dynasty
+Big Lies	interacts with	The Great Unraveling
+Big Lies	interacts with	The Price of Loyalty
+Big Lies	interacts with	House of Bush, House of Saud
+The Lies of George W. Bush	interacts with	Against All Enemies
+The Lies of George W. Bush	interacts with	American Dynasty
+The Lies of George W. Bush	interacts with	Big Lies
+The Lies of George W. Bush	interacts with	The Great Unraveling
+The Lies of George W. Bush	interacts with	The Price of Loyalty
+The Lies of George W. Bush	interacts with	House of Bush, House of Saud
+Worse Than Watergate	interacts with	Against All Enemies
+Worse Than Watergate	interacts with	American Dynasty
+Worse Than Watergate	interacts with	Big Lies
+Worse Than Watergate	interacts with	The Lies of George W. Bush
+Worse Than Watergate	interacts with	The Price of Loyalty
+Worse Than Watergate	interacts with	House of Bush, House of Saud
+Worse Than Watergate	interacts with	The Sorrows of Empire
+Plan of Attack	interacts with	Against All Enemies
+Plan of Attack	interacts with	American Dynasty
+Plan of Attack	interacts with	Worse Than Watergate
+Plan of Attack	interacts with	The Great Unraveling
+Plan of Attack	interacts with	The Price of Loyalty
+Plan of Attack	interacts with	House of Bush, House of Saud
+Plan of Attack	interacts with	The Bushes
+Plan of Attack	interacts with	Why Courage Matters
+Bush at War	interacts with	Against All Enemies
+Bush at War	interacts with	Worse Than Watergate
+Bush at War	interacts with	Rise of the Vulcans
+Bush at War	interacts with	The Price of Loyalty
+Bush at War	interacts with	The Right Man
+Bush at War	interacts with	House of Bush, House of Saud
+Bush at War	interacts with	Plan of Attack
+The New Pearl Harbor	interacts with	Against All Enemies
+The New Pearl Harbor	interacts with	American Dynasty
+The New Pearl Harbor	interacts with	The Lies of George W. Bush
+The New Pearl Harbor	interacts with	Worse Than Watergate
+The New Pearl Harbor	interacts with	House of Bush, House of Saud
+Bushwomen	interacts with	Against All Enemies
+Bushwomen	interacts with	American Dynasty
+Bushwomen	interacts with	The Lies of George W. Bush
+Bushwomen	interacts with	Worse Than Watergate
+Bushwomen	interacts with	The Price of Loyalty
+The Bubble of American Supremacy	interacts with	Against All Enemies
+The Bubble of American Supremacy	interacts with	American Dynasty
+The Bubble of American Supremacy	interacts with	The Great Unraveling
+The Bubble of American Supremacy	interacts with	The Price of Loyalty
+Living History	interacts with	Against All Enemies
+The Politics of Truth	interacts with	Against All Enemies
+The Politics of Truth	interacts with	American Dynasty
+The Politics of Truth	interacts with	Big Lies
+The Politics of Truth	interacts with	The Lies of George W. Bush
+The Politics of Truth	interacts with	Worse Than Watergate
+The Politics of Truth	interacts with	The Price of Loyalty
+The Politics of Truth	interacts with	House of Bush, House of Saud
+The Politics of Truth	interacts with	Plan of Attack
+Fanatics and Fools	interacts with	Against All Enemies
+Fanatics and Fools	interacts with	Big Lies
+Fanatics and Fools	interacts with	Worse Than Watergate
+Fanatics and Fools	interacts with	The Price of Loyalty
+Fanatics and Fools	interacts with	Plan of Attack
+Bushwhacked	interacts with	American Dynasty
+Bushwhacked	interacts with	The Lies of George W. Bush
+Bushwhacked	interacts with	Worse Than Watergate
+Bushwhacked	interacts with	The Great Unraveling
+Bushwhacked	interacts with	Big Lies
+Bushwhacked	interacts with	Stupid White Men
+Bushwhacked	interacts with	The Price of Loyalty
+Bushwhacked	interacts with	The Best Democracy Money Can Buy
+Bushwhacked	interacts with	Plan of Attack
+Bushwhacked	interacts with	Bushwomen
+Bushwhacked	interacts with	Living History
+Bushwhacked	interacts with	The Politics of Truth
+Bushwhacked	interacts with	Fanatics and Fools
+Disarming Iraq	interacts with	American Dynasty
+Disarming Iraq	interacts with	Ghost Wars
+Disarming Iraq	interacts with	Rise of the Vulcans
+Disarming Iraq	interacts with	The Choice
+Disarming Iraq	interacts with	The Great Unraveling
+Lies and the Lying Liars Who Tell Them	interacts with	American Dynasty
+Lies and the Lying Liars Who Tell Them	interacts with	Big Lies
+Lies and the Lying Liars Who Tell Them	interacts with	The Great Unraveling
+Lies and the Lying Liars Who Tell Them	interacts with	Bushwhacked
+Lies and the Lying Liars Who Tell Them	interacts with	Stupid White Men
+Lies and the Lying Liars Who Tell Them	interacts with	The Price of Loyalty
+Lies and the Lying Liars Who Tell Them	interacts with	Rush Limbaugh Is a Big Fat Idiot
+Lies and the Lying Liars Who Tell Them	interacts with	Plan of Attack
+Lies and the Lying Liars Who Tell Them	interacts with	Living History
+MoveOn's 50 Ways to Love Your Country	interacts with	American Dynasty
+MoveOn's 50 Ways to Love Your Country	interacts with	The Lies of George W. Bush
+MoveOn's 50 Ways to Love Your Country	interacts with	Bushwhacked
+MoveOn's 50 Ways to Love Your Country	interacts with	Fanatics and Fools
+The Buying of the President 2004	interacts with	American Dynasty
+The Buying of the President 2004	interacts with	The Lies of George W. Bush
+The Buying of the President 2004	interacts with	The Great Unraveling
+The Buying of the President 2004	interacts with	Bushwhacked
+Perfectly Legal	interacts with	American Dynasty
+Perfectly Legal	interacts with	Big Lies
+Perfectly Legal	interacts with	The Great Unraveling
+Perfectly Legal	interacts with	Bushwhacked
+Perfectly Legal	interacts with	Lies and the Lying Liars Who Tell Them
+Perfectly Legal	interacts with	The Buying of the President 2004
+Hegemony or Survival	interacts with	American Dynasty
+Hegemony or Survival	interacts with	The Great Unraveling
+Hegemony or Survival	interacts with	The Sorrows of Empire
+The Exception to the Rulers	interacts with	American Dynasty
+The Exception to the Rulers	interacts with	The Lies of George W. Bush
+The Exception to the Rulers	interacts with	Worse Than Watergate
+The Exception to the Rulers	interacts with	House of Bush, House of Saud
+The Exception to the Rulers	interacts with	Hegemony or Survival
+The Exception to the Rulers	interacts with	Bushwomen
+Freethinkers	interacts with	American Dynasty
+Freethinkers	interacts with	Big Lies
+Freethinkers	interacts with	Worse Than Watergate
+Had Enough?	interacts with	Big Lies
+Had Enough?	interacts with	The Great Unraveling
+Had Enough?	interacts with	Lies and the Lying Liars Who Tell Them
+Had Enough?	interacts with	The Price of Loyalty
+It's Still the Economy, Stupid!	interacts with	Big Lies
+It's Still the Economy, Stupid!	interacts with	Bushwhacked
+It's Still the Economy, Stupid!	interacts with	Had Enough?
+We're Right They're Wrong	interacts with	Big Lies
+We're Right They're Wrong	interacts with	It's Still the Economy, Stupid!
+We're Right They're Wrong	interacts with	Rush Limbaugh Is a Big Fat Idiot
+What Liberal Media?	interacts with	Big Lies
+What Liberal Media?	interacts with	The Great Unraveling
+What Liberal Media?	interacts with	Bushwhacked
+What Liberal Media?	interacts with	It's Still the Economy, Stupid!
+The Clinton Wars	interacts with	Big Lies
+The Clinton Wars	interacts with	The Great Unraveling
+The Clinton Wars	interacts with	Bushwhacked
+The Clinton Wars	interacts with	Lies and the Lying Liars Who Tell Them
+The Clinton Wars	interacts with	What Liberal Media?
+The Clinton Wars	interacts with	Living History
+Weapons of Mass Deception	interacts with	Big Lies
+Weapons of Mass Deception	interacts with	The Lies of George W. Bush
+Weapons of Mass Deception	interacts with	MoveOn's 50 Ways to Love Your Country
+Weapons of Mass Deception	interacts with	The Exception to the Rulers
+Dude, Where's My Country?	interacts with	Big Lies
+Dude, Where's My Country?	interacts with	The Lies of George W. Bush
+Dude, Where's My Country?	interacts with	The Great Unraveling
+Dude, Where's My Country?	interacts with	Bushwhacked
+Dude, Where's My Country?	interacts with	Had Enough?
+Dude, Where's My Country?	interacts with	Stupid White Men
+Dude, Where's My Country?	interacts with	Downsize This!
+Dude, Where's My Country?	interacts with	The Price of Loyalty
+Dude, Where's My Country?	interacts with	The Best Democracy Money Can Buy
+Dude, Where's My Country?	interacts with	The Culture of Fear
+Dude, Where's My Country?	interacts with	Hegemony or Survival
+Thieves in High Places	interacts with	Big Lies
+Thieves in High Places	interacts with	The Great Unraveling
+Thieves in High Places	interacts with	Bushwhacked
+Thieves in High Places	interacts with	Lies and the Lying Liars Who Tell Them
+Thieves in High Places	interacts with	What Liberal Media?
+Thieves in High Places	interacts with	Weapons of Mass Deception
+Thieves in High Places	interacts with	Dude, Where's My Country?
+Thieves in High Places	interacts with	The Best Democracy Money Can Buy
+Thieves in High Places	interacts with	Bushwomen
+Thieves in High Places	interacts with	The Exception to the Rulers
+Thieves in High Places	interacts with	Fanatics and Fools
+Shrub	interacts with	Bushwhacked
+Shrub	interacts with	Lies and the Lying Liars Who Tell Them
+Shrub	interacts with	It's Still the Economy, Stupid!
+Shrub	interacts with	Thieves in High Places
+Shrub	interacts with	Rush Limbaugh Is a Big Fat Idiot
+Buck Up Suck Up	interacts with	Had Enough?
+Buck Up Suck Up	interacts with	It's Still the Economy, Stupid!
+Buck Up Suck Up	interacts with	We're Right They're Wrong
+Buck Up Suck Up	interacts with	Power Plays
+The Future of Freedom	interacts with	Rogue Nation
+Empire	interacts with	Rogue Nation
+Empire	interacts with	Colossus
+Empire	interacts with	The Future of Freedom
